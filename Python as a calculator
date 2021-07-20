@@ -1,0 +1,22 @@
+#Aqui ele introduz os operadores aritméticos, usados para operações matemáticas
+#Nas instruções o seguinte texto:
+Suponha que você tenha $100, dos quais você pode investir com um retorno de 10% todo ano. Depois de um ano, é 100 X 1.1 = 110 dolares.
+Depois de dois anos é 100 X 1.1 X 1.1 = 121. adicione o código para calcular com quanto dinheiro você terminou após 7 anos, e printe o resultado.
+
+#Adição, subtração
+# Addition, subtraction
+print(5 + 5)
+print(5 - 5)
+
+#Multiplicação, divisão, modulo da divisão* e exponeciação
+# Multiplication, division, modulo, and exponentiation
+print(3 * 5)
+print(10 / 2)
+print(18 % 7)
+print(4 ** 2)
+
+# Quanto seus $100 velem depois de 7 anos?
+# How much is your $100 worth after 7 years?
+# Como ele dos ensinou no  texto, podemos repetir 1.1, 1.1, 1.1.... 7 vezes, mas isso é ineficaz e trabalhoso. podemos usara função e o operador de potenciação:
+print(100 * 1.1 ** 7 )
+
