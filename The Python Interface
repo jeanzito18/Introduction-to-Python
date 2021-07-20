@@ -1,0 +1,7 @@
+#Nesse primeiro exercício, está sendo nos aprentado a função print() que apresenta algo na tela. Junto também o operador de divisão e soma
+
+# Example, do not modify!
+print(5 / 8)
+
+# Print the sum of 7 and 10
+print(7 + 10)
