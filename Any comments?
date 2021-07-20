@@ -1,0 +1,10 @@
+#Nesse exercício é introduzido o comentário. Ele serve para fazer marcações no código, pode ser usado para explicar parte aquela linha, criar observação e outros. 
+#Para adcionar um comentário, basta adiciOnar o # no início da linha, o codigo comentado será 'Pulado' pelo interpretador, ou seja, não será executado.
+#Nesse exercico, é ordenado que se ponha um comentário escrito acima do print(7+ 10)
+ 
+# Division
+print(5 / 8)
+
+#Apenas acerte no ingl~es e funcionará
+#Addition
+print(7 + 10)
