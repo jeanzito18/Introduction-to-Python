@@ -1,0 +1,13 @@
+# Para descobrir o tipo de uma variável, pode usar a função type(), com o nome da varíavel nos parentêses
+
+#Nesse exercíco, precisamos usar a função type no shell do python para descobrir o tipo das variaveis a, b, c. (escreva a função e execute apertando enter)
+In [2]:type(a)
+Out[2]:float
+
+#Ou podemos colocar as duas funções na mesma 
+In [4]: type(b), type(c)
+Out[4]: (str, bool)
+
+#O resultado (Out) nós mostra o tipo daquela variavél
+#A opção certa do questionário (penúltima): 
+a is of type float, b is of type str, c is of type bool
