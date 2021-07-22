@@ -1,0 +1,22 @@
+# As variaveis podem ser de diferentes tipos:
+  #Númericas (valor únicamento núemerico:
+      #int: Varíaveis com números INTeiros, sem vírgula como a varíavel  savings = 100
+      #fLoat: Varíaveis  com número decímais, com virgula (mas na programação troca-se a vrigula pelo ponto) como a varíavel growth_multiplier = 1.1
+      #É chamado float por conter o 'ponto flutuante' em inglês
+      
+  #str: São variaveis contendo texto, sempre estando entre aspas dulplas ou simples ('', "")
+      #carro = 'Mustang'
+      #números em str: '1,2,3,4' - essa varíavel, por conter '', é considerada str
+  
+  #bool: Um tipode de variavel que pode retornar dois 'valores lógicos', True ou false. Veremos mais a frente
+  #banana == maracuja? - False
+  #banana == fruta? - Ture
+  
+
+#Crie a variavel desc com o valor 'compound interest' (juros compostos)
+# Create a variable desc
+desc = 'compound interest'
+
+#Crie a variável 'profitable' (rentável) com o valor True
+# Create a variable profitable
+profitable = True
