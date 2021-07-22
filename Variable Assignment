@@ -1,0 +1,16 @@
+# Aqui, vamos entrar em um importante conceito, o de variáveis. Váriaveis são espaços na memória onde podemos guardar diversas coisas.
+# É como se fosse uma caixa onde podemos guardar números, texto...
+# Parar criar uma variavel, escreva da mesma (de sua escolha) e em seguida o sinal '=' . Após isso, o escreva o conteúdo que quer registrar na variável
+# Exemplo: 
+#nome = Jean
+
+# Resolução do exércico:
+
+#Crie a variavel savings (Econômias)
+# Create a variable savings with the value 100
+savings = 100
+
+Printe savings
+# Print out savings
+print(savings)
+
