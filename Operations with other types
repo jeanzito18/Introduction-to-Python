@@ -1,0 +1,33 @@
+#Aqui vamos fazer mais operações com variaveis e seus tipos
+
+#Variáveis:
+savings = 100
+growth_multiplier = 1.1
+desc = "compound interest"
+
+
+#Atribua o produto (multiplicação) entre growth_multiplier e savings para year1 (ano1)
+#Como já vimos, podemos fazer operações matématicas com variáveis númericas.
+# Assign product of growth_multiplier and savings to year1
+
+year1 = growth_multiplier * savings 
+
+# Se printarmos year1 esse é a saída: 110.00000000000001
+#Serve para exemplificar que uma operação entre um inteiro e um float pode resultar em um float
+
+
+
+# Printe o tipo de year1
+# Print the type of year1
+
+print(type(year1)
+
+
+#atribua a soma entre desc e desc para double desc
+
+doubledesc = desc + desc
+
+
+#A saída dessa ultima linha de código fica:
+compound interestcompound interest
+#Isso serve para lhe mostrar que quando usamos o operador + em strings, ele apenas junta uma na outra, isso é chamado de concatenação
